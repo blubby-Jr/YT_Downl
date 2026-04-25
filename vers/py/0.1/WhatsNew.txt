@@ -1,0 +1,3 @@
+Select video/music quality
+Preview video title, author, and length.
+Custom save paths, as well as a custom FFmpeg path
